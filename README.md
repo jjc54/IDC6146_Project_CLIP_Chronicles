@@ -6,4 +6,4 @@ This project was completed under the guidance of **Dr. Shusen Pu ([Shusen Pu \| 
 
 ![CLIP](images/timeline.png)
 
-Feel free to learn more on our website: 
+Feel free to learn more on our website: https://jjc54.github.io/IDC6146_Project_CLIP_Chronicles/
