@@ -2,6 +2,6 @@
 title: "Code"
 ---
 
-```{r}
-print("TBD")
-```
+Here's a copy of the final code we used to train and test our model (attached as a Jupyter notebook).
+
+[Download Jupyter Notebook](./Code.ipynb)
